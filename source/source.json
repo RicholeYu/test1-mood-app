@@ -5,8 +5,8 @@
       "type": "mini",
       "englishName": "mood",
       "version": "1.0.0",
-      "url": "http://192.168.10.105:19000/source/mood.zip",
-      "img": "http://192.168.10.105:19000/source/mood.png",
+      "url": "http://localhost:19000/source/mood.zip",
+      "img": "http://localhost:19000/source/mood.png",
       "zipname": "mood.zip",
       "entry": "index.html"
     },
@@ -16,9 +16,9 @@
       "englishName": "mood1",
       "version": "1.0.0",
       "url": "",
-      "img": "http://192.168.10.105:19000/source/mood.png",
+      "img": "http://localhost:19000/source/mood.png",
       "zipname": "",
-      "entry": "http://192.168.10.105:3000"
+      "entry": "http://localhost:3000"
     },
     {
       "name": "百度公众号",
@@ -26,7 +26,7 @@
       "englishName": "baidu",
       "version": "1.0.0",
       "url": "",
-      "img": "http://192.168.10.105:19000/source/baidu.png",
+      "img": "http://localhost:19000/source/baidu.png",
       "zipname": "",
       "entry": "https://www.baidu.com"
     }
