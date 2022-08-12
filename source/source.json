@@ -1,0 +1,34 @@
+{
+  "apps": [
+    {
+      "name": "心情离线化H5",
+      "type": "mini",
+      "englishName": "mood",
+      "version": "1.0.0",
+      "url": "http://192.168.10.105:19000/source/mood.zip",
+      "img": "http://192.168.10.105:19000/source/mood.png",
+      "zipname": "mood.zip",
+      "entry": "index.html"
+    },
+    {
+      "name": "心情H5",
+      "type": "web",
+      "englishName": "mood1",
+      "version": "1.0.0",
+      "url": "",
+      "img": "http://192.168.10.105:19000/source/mood.png",
+      "zipname": "",
+      "entry": "http://192.168.10.105:3000"
+    },
+    {
+      "name": "百度公众号",
+      "type": "web",
+      "englishName": "baidu",
+      "version": "1.0.0",
+      "url": "",
+      "img": "http://192.168.10.105:19000/source/baidu.png",
+      "zipname": "",
+      "entry": "https://www.baidu.com"
+    }
+  ]
+}
