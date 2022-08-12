@@ -10,13 +10,13 @@ expo
 react-native-zip-archive （APP zip压缩解压插件）  
 
 ### 项目启动  
-#### 项目1: test1-mood-app  
+#### 项目1: test1-mood-app(https://github.com/RicholeYu/test1-mood-app)  
 npm i  
 npm i expo-cli -g  
 expo start  
 使用xcode打开ios/test1moodapp.xcworkspace, 设置开发者账号和签名，关闭Notification设置，选择Iphone 11 Pro Max模拟器，编译运行。  
 
-#### 项目2: mood  
+#### 项目2: mood(https://github.com/RicholeYu/mood)  
 npm i  
 npm start  
 
